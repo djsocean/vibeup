@@ -1,3 +1,1 @@
-<script>
-  console.log("IT WORKED!");
-</script>
+console.log("IT WORKED!");
